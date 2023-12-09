@@ -1,0 +1,1 @@
+{"name":"Local: duplicate","url":"d:\\Phitron\\Basic Data-Structure\\duplicate.cpp","tests":[{"id":1702139198419,"input":"5\n1 2 3 4 5","output":"NO"},{"id":1702139210102,"input":"6\n2 1 3 5 2 1","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Basic Data-Structure\\duplicate.cpp","group":"local","local":true}
