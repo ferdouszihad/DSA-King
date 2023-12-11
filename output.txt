@@ -1,1 +1,1 @@
-. 967 echo Time Limit Gone
+. 995 echo Time Limit Gone
