@@ -1,1 +1,0 @@
-. 995 echo Time Limit Gone
