@@ -74,5 +74,6 @@
     "optional": "cpp",
     "string_view": "cpp",
     "variant": "cpp"
-  }
+  },
+  "liveServer.settings.port": 5501
 }
