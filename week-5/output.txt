@@ -1,0 +1,6 @@
+hardik 900 30000 
+kohli 500 30000 
+gayle 500 28700 
+Afridi 1300 24000 
+sakib 1562 22000 
+calis 1562 18754 
